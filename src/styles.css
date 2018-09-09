@@ -1,1 +1,62 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+	font-family: Oswald;
+	text-transform: uppercase;
+}
+
+#site-body {
+	padding: 70px;
+}
+
+#navalicious {
+  background-color: firebrick;
+  border-color: firebrick;
+  color: #9d9d9d;
+}
+#navalicious:hover {
+  color: white;
+}
+#ar {
+	font-family: Aref Ruqaa;
+	float: right;
+}
+
+.landing {
+	text-align: center;
+	padding: 10%;
+/*	font-size: 10em;
+*/
+}
+#textlanding {
+	font-size: 50px;
+}
+#arlanding {
+	font-family: Aref Ruqaa;
+	text-align: center;
+
+}
+#arlanding:hover {
+	color: red;
+
+}
+#enlanding:hover {
+	color: red;
+}
+
+#bodylanding {
+	background: "./assets/images/motivational_callig/31189683_10213037303220530_92784668121759744_n.jpg";
+	background-size: cover;
+	background-position: center;
+
+}
+
+#black-button {
+	background-color: black;
+}
+#jumbolanding {
+	color: black;
+	background-color: transparent;
+/*	background: #FFFFFFFF;
+	opacity:0.52;*/
+	border: 3px solid firebrick;
+}
